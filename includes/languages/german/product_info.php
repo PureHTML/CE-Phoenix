@@ -27,3 +27,8 @@ const TEXT_PRODUCT_OPTIONS = 'Verfügbare Optionen:';
 define('TEXT_CLICK_TO_ENLARGE',
     'Für eine grössere Darstellung<br>klicken Sie auf das Bild.');
 ?>
+const TEXT_MORE_INFORMATION = 'Für weitere Informationen, besuchen Sie bitte die <a href="%s" target="_blank"><u>Homepage</u></a> zu diesem Produkt.';
+const TEXT_DATE_ADDED = 'Dieses Produkt haben wir am %s in unseren Katalog aufgenommen.';
+const TEXT_DATE_AVAILABLE = '<font color="#ff0000">Dieses Produkt wird voraussichtlich ab dem %s wieder vorrätig sein.</font>';
+const TEXT_ALSO_PURCHASED_PRODUCTS = 'Kunden, die dieses Produkt gekauft haben, haben auch folgende Produkte gekauft:';
+const TEXT_CLICK_TO_ENLARGE = 'Für eine grössere Darstellung<br>klicken Sie auf das Bild.';

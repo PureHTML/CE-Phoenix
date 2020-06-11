@@ -16,3 +16,4 @@ const HEADING_TITLE = 'Liefer- und Versandkosten';
 define('TEXT_INFORMATION',
     'Geben Sie Ihre Liefer- und Versandkosten  Informationen hier an');
 ?>
+const TEXT_INFORMATION = 'Geben Sie Ihre Liefer- und Versandkosten  Informationen hier an';

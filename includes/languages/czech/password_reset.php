@@ -28,3 +28,6 @@ define('SUCCESS_PASSWORD_RESET',
     'Vaše heslo bylo úspěšně aktualizováno. Přihlaste se prosím s novým heslem.',
     true);
 ?>
+const TEXT_NO_RESET_LINK_FOUND = 'Chyba: Odkaz na obnovení hesla nebyl v našich záznamech nalezen. Zkuste to prosím znovu.';
+const TEXT_NO_EMAIL_ADDRESS_FOUND = 'Chyba: E-mailová adresa nebyla v našich záznamech nalezena, zkuste to prosím znovu.';
+const SUCCESS_PASSWORD_RESET = 'Vaše heslo bylo úspěšně aktualizováno. Přihlaste se prosím s novým heslem.';

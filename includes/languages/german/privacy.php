@@ -20,3 +20,4 @@ const HEADING_TITLE = 'Privatsphäre und Datenschutz';
 define('TEXT_INFORMATION',
     'Geben Sie Ihre Privatsphäre und Datenschutz Informationen hier ein! ');
 ?>
+const TEXT_INFORMATION = 'Geben Sie Ihre Privatsphäre und Datenschutz Informationen hier ein! ';

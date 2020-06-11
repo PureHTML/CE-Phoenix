@@ -14,3 +14,6 @@ define('MODULE_SHIPPING_ITEM_TEXT_TITLE', 'Pro Stück',true);
 define('MODULE_SHIPPING_ITEM_TEXT_DESCRIPTION', 'Pro Stück',true);
 define('MODULE_SHIPPING_ITEM_TEXT_WAY', 'Ambesten',true);
 ?>
+const MODULE_SHIPPING_ITEM_TEXT_TITLE = 'Pro Stück';
+const MODULE_SHIPPING_ITEM_TEXT_DESCRIPTION = 'Pro Stück';
+const MODULE_SHIPPING_ITEM_TEXT_WAY = 'Ambesten';

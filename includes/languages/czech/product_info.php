@@ -29,3 +29,5 @@ const DISPLAY_TIPS = 'zobrazit tipy';
 const DISPLAY_COMPONENTS = 'zobrazit složení';
 const DISPLAY_ALSO_PURCHASED = 'zobrazit "Ostatní zákazníci zároveň koupili"';
 const DISPLAY_RELATED = 'zobrazit související produkty';
+const TEXT_MORE_INFORMATION = '<a href="%s" target="_blank"><u>kliknout zde</u></a>.';
+const TEXT_DATE_AVAILABLE = '<font color="#ff0000">bude v prodeji od %s.</font>';

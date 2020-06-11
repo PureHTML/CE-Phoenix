@@ -28,3 +28,5 @@ define('TEXT_MAXIMUM_ENTRIES',
     '<font color="#ff0000"><b>Hinweis:</b></font> Ihnen stehen %s Adressbucheinträge zur Verfügung!',
     true);
 ?>
+const PRIMARY_ADDRESS_DESCRIPTION = 'Diese Adresse wird automatisch als Liefer- und Rechnungsadresse gewählt wenn Sie eine Bestellung aufgeben.<br><br>Diese Adresse wird auch als Basis für die Berechnung eventueller Steuern udn Versandkosten verwendet.';
+const TEXT_MAXIMUM_ENTRIES = '<font color="#ff0000"><b>Hinweis:</b></font> Ihnen stehen %s Adressbucheinträge zur Verfügung!';

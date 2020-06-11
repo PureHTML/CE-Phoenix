@@ -34,3 +34,7 @@ const CONFIG_DESCRIPTION_MODULE_SHIPPING_ZONES_SORT_ORDER = 'Pořadí zobrazení
 const CONFIG_TITLE_MODULE_SHIPPING_ZONES_STATUS = 'Povolit modul Zóny?';
 const CONFIG_DESCRIPTION_MODULE_SHIPPING_ZONES_STATUS = 'Chcete povolit výpočet dopravného podle zón?';
 
+const CONFIG_DESCRIPTION_MODULE_SHIPPING_ZONES_MODE = '
+Náklady na dopravu jsou počítány na základě celkové objednávky nebo celkové hmotnosti objednaného zboží.
+Vyplňte tabulku dopravného pro různé skupiny zemí, v poslední skupině ponechte pole "Zóna N - země" prázdnou - příslušná Tabulka poštovného se použije pro všechny ostatní země .
+';

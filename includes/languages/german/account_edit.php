@@ -20,3 +20,4 @@ const MY_ACCOUNT_TITLE = 'Ihr Konto';
 define('SUCCESS_ACCOUNT_UPDATED', 'Ihre Daten wurden erfolgreich aktualisiert!',
     true);
 ?>
+const SUCCESS_ACCOUNT_UPDATED = 'Ihre Daten wurden erfolgreich aktualisiert!';

@@ -24,3 +24,5 @@ define('MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION',
 define('SUCCESS_NEWSLETTER_UPDATED',
     'Ihre Newsletter Abonnements wurden erfolgreich aktualisiert!');
 ?>
+const MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION = 'Beinhaltet allgemeine Nachrichten ünseren Shop, Informationen über neue Produkte, Sonderangebote und andere Informationen von allgemeinem Interesse.';
+const SUCCESS_NEWSLETTER_UPDATED = 'Ihre Newsletter Abonnements wurden erfolgreich aktualisiert!';

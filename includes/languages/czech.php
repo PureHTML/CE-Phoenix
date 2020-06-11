@@ -396,3 +396,17 @@ const QUICK_SHOP_PAGE = 'quick-shop';
 
 const PASSWORD = 'Heslo';
 const LOGIN = 'Přihlášení';
+const DATE_TIME_FORMAT = '';
+const TITLE = '';
+const JS_REVIEW_TEXT = '';
+const ENTRY_FIRST_NAME_ERROR = '';
+const ENTRY_LAST_NAME_ERROR = '';
+const ENTRY_EMAIL_ADDRESS_ERROR = '';
+const ENTRY_STREET_ADDRESS_ERROR = '';
+const ENTRY_POST_CODE_ERROR = '';
+const ENTRY_CITY_ERROR = '';
+const ENTRY_STATE_ERROR = '';
+const ENTRY_TELEPHONE_NUMBER_ERROR = '';
+const ENTRY_PASSWORD_ERROR = '';
+const ENTRY_PASSWORD_CURRENT_ERROR = '';
+const ENTRY_PASSWORD_NEW_ERROR = '';

@@ -33,3 +33,6 @@ define('TEXT_CREATE_NEW_PAYMENT_ADDRESS', 'Vytvořte novou hlavní adresu.',
 const TITLE_CONTINUE_CHECKOUT_PROCEDURE = 'pokračujte v placení';
 const TEXT_CONTINUE_CHECKOUT_PROCEDURE = 'vybrat způsob platby.';
 ?>
+const TEXT_SELECTED_PAYMENT_DESTINATION = 'Toto je hlavní vybraná adresa fakturace a dodání.';
+const TEXT_SELECT_OTHER_PAYMENT_DESTINATION = 'Vyberte hlavní adresu pro tuto objednávku bude-li odlišná od adresy dodání.';
+const TEXT_CREATE_NEW_PAYMENT_ADDRESS = 'Vytvořte novou hlavní adresu.';

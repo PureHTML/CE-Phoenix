@@ -35,3 +35,8 @@ define('NOTIFICATIONS_NON_EXISTING',
 define('SUCCESS_NOTIFICATIONS_UPDATED',
     'Změna v zasílání upozornění potvrzena.');
 ?>
+const MY_NOTIFICATIONS_DESCRIPTION = 'Zde můžete nastavit zasílání změn vybraných produktů, které Vás zajímají.<br /><br />Chcete-li být informováni o všech změnách, vyberte položku <strong>Všechny změny</strong>.';
+const GLOBAL_NOTIFICATIONS_DESCRIPTION = 'Upozornit při změnách u všech produktů.';
+const NOTIFICATIONS_DESCRIPTION = 'Nechcete-li již být informováni o změnách vybraných produktů, zaškrtněte v menu a pokračujte.';
+const NOTIFICATIONS_NON_EXISTING = 'Nemáte vybráno žádné upozornění.<br /><br />Chcete-li přidat konkrétní výrobek, zaškrtněte v menu zasílání informací.';
+const SUCCESS_NOTIFICATIONS_UPDATED = 'Změna v zasílání upozornění potvrzena.';

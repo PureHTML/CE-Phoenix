@@ -35,3 +35,6 @@ define('ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS',
     'Na tuto dodací adresu nelze zboží doručit. Prosíme vyberte nebo vytvořte novou dodací adresu.',
     true);
 const IMAGE_BUTTON_PAYMENT = 'platba';
+const TEXT_CHOOSE_SHIPPING_DESTINATION = 'Vyberte adresu, na kterou chcete zboží zaslat.';
+const TEXT_CONTINUE_CHECKOUT_PROCEDURE = 'máte-li vybraný způsob dodání.';
+const ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS = 'Na tuto dodací adresu nelze zboží doručit. Prosíme vyberte nebo vytvořte novou dodací adresu.';

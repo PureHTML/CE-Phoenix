@@ -17,3 +17,9 @@ define('MODULE_SHIPPING_ZONES_TEXT_UNITS', ' kg ',true);
 define('MODULE_SHIPPING_ZONES_INVALID_ZONE', 'Keine Lieferung in Ihr Land.',true);
 define('MODULE_SHIPPING_ZONES_UNDEFINED_RATE', 'Keine Liefertariff',true);
 ?>
+const MODULE_SHIPPING_ZONES_TEXT_TITLE = 'Zonen Tarif';
+const MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION = 'Zonen basierter Tarif';
+const MODULE_SHIPPING_ZONES_TEXT_WAY = 'Versand zu';
+const MODULE_SHIPPING_ZONES_TEXT_UNITS = ' kg ';
+const MODULE_SHIPPING_ZONES_INVALID_ZONE = 'Keine Lieferung in Ihr Land.';
+const MODULE_SHIPPING_ZONES_UNDEFINED_RATE = 'Keine Liefertariff';

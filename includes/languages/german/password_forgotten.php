@@ -35,3 +35,9 @@ define('ERROR_ACTION_RECORDER',
     ' Fehler: Ein Link zum Zurücksetzen des Passworts wurde bereits gesendet. Versuchen Sie es in %s Minuten.',
     true);
 ?>
+const TEXT_MAIN = 'Wenn Sie Ihr Passwort vergessen haben, geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen Anweisungen, wie sicher Ihr Passwort ändern.';
+const TEXT_PASSWORD_RESET_INITIATED = ' überprüfen Sie Ihre E-Mail-Anweisungen, wie Sie Ihr Passwort zu &aml;ndern. Es enth&aml;lt einen Link, der für 24 Stunden oder bis das Passwort wurde aktualisiert funktioniert.';
+const TEXT_NO_EMAIL_ADDRESS_FOUND = 'Fehler: Die eingegebene eMail-Adresse ist nicht registriert. Bitte versuchen Sie es noch einmal.';
+const EMAIL_PASSWORD_RESET_SUBJECT = '';
+const EMAIL_PASSWORD_RESET_BODY = '';
+const ERROR_ACTION_RECORDER = ' Fehler: Ein Link zum Zurücksetzen des Passworts wurde bereits gesendet. Versuchen Sie es in %s Minuten.';

@@ -28,3 +28,5 @@ define('TEXT_MAXIMUM_ENTRIES',
     '<span class="inputRequirement">POZNÁMKA:</span> Maximálně zde můžete mít uloženo %s addres.',
     true);
 ?>
+const PRIMARY_ADDRESS_DESCRIPTION = 'Tato adresa je nastavena pro zasílání a fakturování objednaného zboží.<br /><br />Také se použije pro výpočet daně a způsobu dodání.';
+const TEXT_MAXIMUM_ENTRIES = '<span class="inputRequirement">POZNÁMKA:</span> Maximálně zde můžete mít uloženo %s addres.';

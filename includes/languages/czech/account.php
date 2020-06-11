@@ -62,3 +62,5 @@ const MY_ACCOUNT_LOGOFF = 'Odhlášení';
 const MY_ACCOUNT_LOGOFF_DESC = 'Bezpečně odhlásit';
 const MY_ACCOUNT_NEWSLETTERS = 'Newsletter';
 const MY_ACCOUNT_NEWSLETTERS_DESC = 'Nastavit zasílání newsletterů';
+const EMAIL_NOTIFICATIONS_NEWSLETTERS = 'Nastavit zasílání newsletterů';
+const EMAIL_NOTIFICATIONS_PRODUCTS = 'View or change my product notification list.';

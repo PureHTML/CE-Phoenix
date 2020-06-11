@@ -14,3 +14,6 @@
   define('MODULE_BOXES_SPECIALS_DESCRIPTION', 'Zeige Produkt-Angebote',true);
   define('MODULE_BOXES_SPECIALS_BOX_TITLE', 'Angebote',true);
 ?>
+const MODULE_BOXES_SPECIALS_TITLE = 'Angebote';
+const MODULE_BOXES_SPECIALS_DESCRIPTION = 'Zeige Produkt-Angebote';
+const MODULE_BOXES_SPECIALS_BOX_TITLE = 'Angebote';

@@ -1,4 +1,5 @@
 <?php
+
 /*
   $Id$
 
@@ -14,7 +15,7 @@ const TEXT_MAIN = 'xxx';
 const TABLE_HEADING_NEW_PRODUCTS = 'Novinky %s';
 const TABLE_HEADING_UPCOMING_PRODUCTS = 'Připravujeme';
 const TABLE_HEADING_DATE_EXPECTED = 'Bude k dispozici';
-define('HEADING_TITLE', 'Vítejte na serveru '.STORE_NAME);
+define('HEADING_TITLE', 'Vítejte na serveru ' . STORE_NAME);
 
 const TEXT_NO_PRODUCTS = 'V této kategorii není žádné zboží.';
 const TEXT_NUMBER_OF_PRODUCTS = 'Počet: ';
@@ -26,13 +27,14 @@ const TEXT_ALL_MANUFACTURERS = 'všichni výrobci';
 
 // seo
 if (($category_depth == 'top') && (!isset($_GET['manufacturers_id']))) {
-const META_SEO_TITLE = 'Index stránka název';
+    define('META_SEO_TITLE', 'Index stránka název');
     define('META_SEO_DESCRIPTION',
-        'Toto je popis vašeho webu, který se má použít v popisovacím prvku META');
+            'Toto je popis vašeho webu, který se má použít v popisovacím prvku META');
     /*
       keywords are USELESS unless you are selling into China and want to be listed in Baidu Search Engine
      */
     define('META_SEO_KEYWORDS',
-        'tato, čárkami, oddělená, klíčová, slova, použitá v META keywords prvku');
+            'tato, čárkami, oddělená, klíčová, slova, použitá v META keywords prvku');
 }
 
+const HEADING_TITLE = '';

@@ -37,3 +37,8 @@ define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', 'Fortsetzung des Bestellvorganges',
 define('TEXT_CONTINUE_CHECKOUT_PROCEDURE',
     'zur Auswahl der gewünschten Versandart.');
 ?>
+const TEXT_SELECTED_SHIPPING_DESTINATION = 'Dies ist die aktuell ausgewählte Versandadresse, an die Ihre Bestellung geliefert wird.';
+const TEXT_SELECT_OTHER_SHIPPING_DESTINATION = 'Bitte wählen Sie die gewünschte Versandadresse, an die wir die Auslieferung vornehmen sollen.';
+const TEXT_CREATE_NEW_SHIPPING_ADDRESS = 'Bitte nutzen Sie dieses Formular, um eine neue Versandadresse für Ihre Bestellung zu erfassen.';
+const TITLE_CONTINUE_CHECKOUT_PROCEDURE = 'Fortsetzung des Bestellvorganges';
+const TEXT_CONTINUE_CHECKOUT_PROCEDURE = 'zur Auswahl der gewünschten Versandart.';

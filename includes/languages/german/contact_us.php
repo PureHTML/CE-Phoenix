@@ -26,3 +26,6 @@ define('ERROR_ACTION_RECORDER',
     'Fehler: Es wurde bereits eine Anfrage gesendet. Versuchen Sie es in %s Minuten noch einmal.',
     true);
 ?>
+const TEXT_SUCCESS = 'Ihre Anfrage wurde erfolgreich an den Vertrieb gesendet.';
+const EMAIL_SUBJECT = '';
+const ERROR_ACTION_RECORDER = 'Fehler: Es wurde bereits eine Anfrage gesendet. Versuchen Sie es in %s Minuten noch einmal.';

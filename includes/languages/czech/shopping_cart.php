@@ -27,3 +27,5 @@ const TEXT_ALTERNATIVE_CHECKOUT_METHODS = '- OR -';
 const FREE_SHIPPING_REMAINING_1 = 'Nakupte ještě za ';
 const FREE_SHIPPING_REMAINING_2 = ' a získejte dopravu zdarma';
 const REMOVE_FROM_CART = 'Odstranit';
+const OUT_OF_STOCK_CANT_CHECKOUT = '';
+const OUT_OF_STOCK_CAN_CHECKOUT = '';

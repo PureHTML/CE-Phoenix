@@ -33,3 +33,7 @@ define('EMAIL_NOTIFICATIONS_NEWSLETTERS',
 define('EMAIL_NOTIFICATIONS_PRODUCTS',
     'Meine Produktbenachrichtigungen anzeigen oder ändern.');
 ?>
+const MY_ACCOUNT_INFORMATION = 'Meine Kontoinformationen anzeigen oder ändern';
+const MY_ACCOUNT_ADDRESS_BOOK = 'Adressbucheinträge anzeigen oder ändern';
+const EMAIL_NOTIFICATIONS_NEWSLETTERS = 'Newsletter abonnieren oder abbestellen.';
+const EMAIL_NOTIFICATIONS_PRODUCTS = 'Meine Produktbenachrichtigungen anzeigen oder ändern.';

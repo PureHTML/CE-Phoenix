@@ -32,3 +32,12 @@ define('EMAIL_CONTACT',
 define('EMAIL_WARNING',
     '<strong>Achtung:</strong> Diese eMail-Adresse wurde uns von einem Kunden bekannt gegeben. Falls Sie sich nicht angemeldet haben, senden Sie bitte eine eMail an '.STORE_OWNER_EMAIL_ADDRESS.'.'."\n");
 ?>
+const TEXT_ORIGIN_LOGIN = '<font color="#FF0000"><small><b>ACHTUNG:</b></font></small> Wenn Sie bereits ein Konto besitzen, so melden Sie sich bitte <a href="%s"><u><b>hier</b></u></a> an.';
+const EMAIL_SUBJECT = '';
+const EMAIL_GREET_MR = '';
+const EMAIL_GREET_MS = '';
+const EMAIL_GREET_NONE = '';
+const EMAIL_WELCOME = '';
+const EMAIL_TEXT = '';
+const EMAIL_CONTACT = '';
+const EMAIL_WARNING = '';

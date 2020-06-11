@@ -16,3 +16,7 @@
   define('FREE_SHIPPING_TITLE', 'Freier Versand',true);
   define('FREE_SHIPPING_DESCRIPTION', 'Freier Versand für Bestellungen über %s',true);
 ?>
+const MODULE_ORDER_TOTAL_SHIPPING_TITLE = 'Versand';
+const MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION = 'Versandkosten';
+const FREE_SHIPPING_TITLE = 'Freier Versand';
+const FREE_SHIPPING_DESCRIPTION = 'Freier Versand für Bestellungen über %s';

@@ -34,3 +34,9 @@ define('ERROR_ACTION_RECORDER',
     'Chyba: Odkaz na obnovení hesla již byl odeslán. Zkuste to prosím znovu po % minutách.',
     true);
 ?>
+const TEXT_MAIN = 'Zapomněl(a) jste heslo? Vložte svou e-mailovou adresu, která byla zadána při registraci a my Vám pošleme nové.';
+const TEXT_PASSWORD_RESET_INITIATED = 'Ve vaší e-mailové schránce naleznete pokyny, jak změnit heslo. V mailu naleznete odkaz, který je platný pouze po dobu 24 hodin nebo dokud nebude vaše heslo aktualizováno.';
+const TEXT_NO_EMAIL_ADDRESS_FOUND = 'Nezadal jste e-mail nebo je nesprávný, zkuste zadat znovu.';
+const EMAIL_PASSWORD_RESET_SUBJECT = '';
+const EMAIL_PASSWORD_RESET_BODY = '';
+const ERROR_ACTION_RECORDER = 'Chyba: Odkaz na obnovení hesla již byl odeslán. Zkuste to prosím znovu po % minutách.';

@@ -46,3 +46,9 @@ define('ERROR_ADDRESS_BOOK_FULL',
     'Ihr Adressbuch kann keine weiteren Adressen aufnehmen. Bitte löschen Sie eine nicht mehr benötigte Adresse. Danach können Sie einen neuen Eintrag speichern.',
     true);
 ?>
+const DELETE_ADDRESS_DESCRIPTION = 'Wollen Sie diese Adresse unwiderruflich aus Ihrem Adressbuch entfernen?';
+const SUCCESS_ADDRESS_BOOK_ENTRY_DELETED = 'Der ausgewählte Eintrag wurde erflogreich gelöscht.';
+const SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED = 'Ihr Adressbuch wurde erfolgreich aktualisiert!';
+const WARNING_PRIMARY_ADDRESS_DELETION = 'Die Standardadresse kann nicht gelöscht werden. Bitte erst eine andere Standardadresse wählen. Danach kann der Eintrag gelöscht werden.';
+const ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY = 'Dieser Adressbucheintrag ist nicht vorhanden.';
+const ERROR_ADDRESS_BOOK_FULL = 'Ihr Adressbuch kann keine weiteren Adressen aufnehmen. Bitte löschen Sie eine nicht mehr benötigte Adresse. Danach können Sie einen neuen Eintrag speichern.';

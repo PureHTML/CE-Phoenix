@@ -14,3 +14,6 @@ define('MODULE_SHIPPING_FLAT_TEXT_TITLE', 'Pauschalpreis',true);
 define('MODULE_SHIPPING_FLAT_TEXT_DESCRIPTION', 'Pauschalpreis',true);
 define('MODULE_SHIPPING_FLAT_TEXT_WAY', 'Ambesten',true);
 ?>
+const MODULE_SHIPPING_FLAT_TEXT_TITLE = 'Pauschalpreis';
+const MODULE_SHIPPING_FLAT_TEXT_DESCRIPTION = 'Pauschalpreis';
+const MODULE_SHIPPING_FLAT_TEXT_WAY = 'Ambesten';

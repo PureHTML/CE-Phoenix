@@ -32,3 +32,7 @@ define('TEXT_VISITORS_CART',
     '<font color="#ff0000"><b>Achtung:</b></font> Ihre Besuchereingaben werden automatisch mit Ihrem Kundenkonto verbunden. <a href="javascript:session_win();">[Mehr Information]</a>',
     true);
 ?>
+const TEXT_NEW_CUSTOMER_INTRODUCTION = '';
+const TEXT_PASSWORD_FORGOTTEN = 'Sie haben Ihr Passwort vergessen? Dann klicken Sie <u>hier</u>';
+const TEXT_LOGIN_ERROR = 'Fehler: Keine übereinstimmung der eingebenen eMail-Adresse und/oder dem Passwort.';
+const TEXT_VISITORS_CART = '<font color="#ff0000"><b>Achtung:</b></font> Ihre Besuchereingaben werden automatisch mit Ihrem Kundenkonto verbunden. <a href="javascript:session_win();">[Mehr Information]</a>';

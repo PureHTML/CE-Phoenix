@@ -19,4 +19,4 @@ const MODULE_PAYMENT_PSIGATE_TEXT_TYPE = 'Type:';
   define('MODULE_PAYMENT_PSIGATE_TEXT_JS_CC_NUMBER', '* The credit card number must be at least ' . CC_NUMBER_MIN_LENGTH . ' characters.\n');
 const MODULE_PAYMENT_PSIGATE_TEXT_ERROR_MESSAGE = 'There has been an error processing your credit card. Please try again.';
 const MODULE_PAYMENT_PSIGATE_TEXT_ERROR = 'Credit Card Error!';
-?>
+?>const MODULE_PAYMENT_PSIGATE_TEXT_JS_CC_NUMBER = '';

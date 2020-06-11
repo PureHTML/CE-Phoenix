@@ -37,3 +37,8 @@ define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', 'Fortsetzung des Bestellvorganges',
 define('TEXT_CONTINUE_CHECKOUT_PROCEDURE',
     'zur Auswahl der gewünschten Zahlungsweise.');
 ?>
+const TEXT_SELECTED_PAYMENT_DESTINATION = 'Dies ist die aktuell ausgewählte Rechnungsadresse, auf die die Rechnung ausgestellt wird.';
+const TEXT_SELECT_OTHER_PAYMENT_DESTINATION = 'Bitte wählen Sie die gewünschte Rechnungsadresse, auf die wir die Rechnung ausstellen sollen.';
+const TEXT_CREATE_NEW_PAYMENT_ADDRESS = 'Bitte nutzen Sie dieses Formular, um eine neue Rechnungsadresse für Ihre Bestellung zu erfassen.';
+const TITLE_CONTINUE_CHECKOUT_PROCEDURE = 'Fortsetzung des Bestellvorganges';
+const TEXT_CONTINUE_CHECKOUT_PROCEDURE = 'zur Auswahl der gewünschten Zahlungsweise.';

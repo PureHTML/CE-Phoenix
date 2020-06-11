@@ -14,3 +14,6 @@
   define('MODULE_BOXES_ORDER_HISTORY_DESCRIPTION', 'Zeigt angemeldeten Kunden die Bestellhistorie',true);
   define('MODULE_BOXES_ORDER_HISTORY_BOX_TITLE', 'Bestellhistorie',true);
 ?>
+const MODULE_BOXES_ORDER_HISTORY_TITLE = 'Bestellhistorie';
+const MODULE_BOXES_ORDER_HISTORY_DESCRIPTION = 'Zeigt angemeldeten Kunden die Bestellhistorie';
+const MODULE_BOXES_ORDER_HISTORY_BOX_TITLE = 'Bestellhistorie';

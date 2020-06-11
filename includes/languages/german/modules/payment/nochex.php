@@ -13,3 +13,5 @@
   define('MODULE_PAYMENT_NOCHEX_TEXT_TITLE', 'NOCHEX',true);
   define('MODULE_PAYMENT_NOCHEX_TEXT_DESCRIPTION', 'NOCHEX<br />Requires the GBP currency.',true);
 ?>
+const MODULE_PAYMENT_NOCHEX_TEXT_TITLE = 'NOCHEX';
+const MODULE_PAYMENT_NOCHEX_TEXT_DESCRIPTION = 'NOCHEX<br />Requires the GBP currency.';

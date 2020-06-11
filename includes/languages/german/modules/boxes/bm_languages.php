@@ -14,3 +14,6 @@
   define('MODULE_BOXES_LANGUAGES_DESCRIPTION', 'Zeige alle Sprachen',true);
   define('MODULE_BOXES_LANGUAGES_BOX_TITLE', 'Sprachen',true);
 ?>
+const MODULE_BOXES_LANGUAGES_TITLE = 'Sprachen';
+const MODULE_BOXES_LANGUAGES_DESCRIPTION = 'Zeige alle Sprachen';
+const MODULE_BOXES_LANGUAGES_BOX_TITLE = 'Sprachen';

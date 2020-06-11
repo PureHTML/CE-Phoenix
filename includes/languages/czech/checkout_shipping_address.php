@@ -32,3 +32,6 @@ define('TEXT_CREATE_NEW_SHIPPING_ADDRESS',
 const TITLE_CONTINUE_CHECKOUT_PROCEDURE = 'pokračujte v placení';
 const TEXT_CONTINUE_CHECKOUT_PROCEDURE = 'Vyberte platební metodu.';
 ?>
+const TEXT_SELECTED_SHIPPING_DESTINATION = 'Toto je hlavní dodací adresa.';
+const TEXT_SELECT_OTHER_SHIPPING_DESTINATION = 'Vyberte dodací adresu, bude-li dodáno jinam.';
+const TEXT_CREATE_NEW_SHIPPING_ADDRESS = 'Použijte formulář k vytvoření nové dodací adresy.';

@@ -31,3 +31,5 @@ const TEXT_ALTERNATIVE_CHECKOUT_METHODS = '- ODER -';
 const TEXT_OR = 'oder ';
 const TEXT_REMOVE = 'Entfernen';
 ?>
+const OUT_OF_STOCK_CANT_CHECKOUT = '';
+const OUT_OF_STOCK_CAN_CHECKOUT = '';

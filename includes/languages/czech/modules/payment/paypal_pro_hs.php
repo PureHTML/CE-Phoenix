@@ -32,3 +32,4 @@ const MODULE_PAYMENT_PAYPAL_PRO_HS_DIALOG_CONNECTION_SUCCESS = 'Success!';
 const MODULE_PAYMENT_PAYPAL_PRO_HS_DIALOG_CONNECTION_FAILED = 'Failed! Please review the Verify SSL Certificate settings and try again.';
 const MODULE_PAYMENT_PAYPAL_PRO_HS_DIALOG_CONNECTION_ERROR = 'An error occurred. Please refresh the page, review your settings, and try again.';
 ?>
+const MODULE_PAYMENT_PAYPAL_PRO_HS_TEXT_PAYPAL_RETURN_BUTTON = '';

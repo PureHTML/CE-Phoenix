@@ -21,3 +21,4 @@ const SUCCESS_PASSWORD_UPDATED = 'Vaše heslo bylo úspěšně změněno.';
 define('ERROR_CURRENT_PASSWORD_NOT_MATCHING',
     'Zadali jste chybné heslo. Zadejte jej znovu.');
 ?>
+const ERROR_CURRENT_PASSWORD_NOT_MATCHING = 'Zadali jste chybné heslo. Zadejte jej znovu.';

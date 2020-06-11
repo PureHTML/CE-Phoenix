@@ -18,3 +18,4 @@ const HEADING_TITLE = 'Ihr Bestellung ist ausgeführt worden.';
 define('TABLE_HEADING_COMMENTS',
     'Tragen Sie eine Anmerkung für die Bestellung ein');
 ?>
+const TABLE_HEADING_COMMENTS = 'Tragen Sie eine Anmerkung für die Bestellung ein';

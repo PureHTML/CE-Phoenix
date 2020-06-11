@@ -45,3 +45,9 @@ define('ERROR_ADDRESS_BOOK_FULL',
     'Váš adresář je plný. Smažte některou nepoužívanou adresu a potom přidejte novou.',
     true);
 const ENTRY_COMPANY_NUMBER = 'IČ';
+const DELETE_ADDRESS_DESCRIPTION = 'Chcete opravdu smazat vybranou adresu?';
+const SUCCESS_ADDRESS_BOOK_ENTRY_DELETED = 'Vybraná adresa byla vymazána.';
+const SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED = 'Váš adresář byl úspěšně aktualizován.';
+const WARNING_PRIMARY_ADDRESS_DELETION = 'Hlavní adresu nelze smazat. Nastavte jinou jako výchozí a pokračujte.';
+const ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY = 'Tato adresa v adresáři není.';
+const ERROR_ADDRESS_BOOK_FULL = 'Váš adresář je plný. Smažte některou nepoužívanou adresu a potom přidejte novou.';

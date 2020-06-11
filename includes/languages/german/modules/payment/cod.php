@@ -13,3 +13,5 @@
   define('MODULE_PAYMENT_COD_TEXT_TITLE', 'Nachnahme',true);
   define('MODULE_PAYMENT_COD_TEXT_DESCRIPTION', 'Nachnahmezahlung bei Lieferung',true);
 ?>
+const MODULE_PAYMENT_COD_TEXT_TITLE = 'Nachnahme';
+const MODULE_PAYMENT_COD_TEXT_DESCRIPTION = 'Nachnahmezahlung bei Lieferung';

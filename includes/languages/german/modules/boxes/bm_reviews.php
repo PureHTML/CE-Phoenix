@@ -17,3 +17,9 @@
   define('MODULE_BOXES_REVIEWS_BOX_NO_REVIEWS', 'Momentan gibt es noch keine Bewertungen',true);
   define('MODULE_BOXES_REVIEWS_BOX_TEXT_OF_5_STARS', '%s of 5 Stars!',true);
 ?>
+const MODULE_BOXES_REVIEWS_TITLE = 'Bewertungen';
+const MODULE_BOXES_REVIEWS_DESCRIPTION = 'Zeige Bewertungen';
+const MODULE_BOXES_REVIEWS_BOX_TITLE = 'Bewertungen';
+const MODULE_BOXES_REVIEWS_BOX_WRITE_REVIEW = 'Schreibe eine Bewertung zu diesen Produkt';
+const MODULE_BOXES_REVIEWS_BOX_NO_REVIEWS = 'Momentan gibt es noch keine Bewertungen';
+const MODULE_BOXES_REVIEWS_BOX_TEXT_OF_5_STARS = '%s of 5 Stars!';

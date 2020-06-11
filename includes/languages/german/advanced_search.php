@@ -67,3 +67,10 @@ const ERROR_INVALID_KEYWORDS = 'Suchbegriff unzul&aumässig';
 //pure:new
 const IMAGE_BUTTON_BACK_ADVANCED_SEARCH = 'back to advanced search';
 ?>
+const TEXT_SEARCH_HELP = 'Die Suchfunktion ermöglicht Ihnen die Suche in den Produktnamen, Produktbeschreibungen, Herstellern und Artikelnummern.<br><br>Sie haben die Möglichkeit logische Operatoren wie "AND" (Und) und "OR" (oder) zu verwenden.<br><br>Als Beispiel könnten Sie also angeben: <u>Microsoft AND Maus</u>.<br><br>Desweiteren können Sie Klammern verwenden um die Suche zu verschachteln, also z.B.:<br><br><u>Microsoft AND (Maus OR Tastatur OR "Visual Basic")</u>.<br><br>Mit Anführungszeichen können Sie mehrere Worte zu einem Suchbegriff zusammenfassen.';
+const TEXT_NO_PRODUCTS = 'Es wurden keine Artikel gefunden, die den Suchkriterien entsprechen.';
+const ERROR_AT_LEAST_ONE_INPUT = 'Wenigstens ein Feld des Suchformulars muss ausgefüllt werden.';
+const ERROR_TO_DATE_LESS_THAN_FROM_DATE = 'Das Datum <b>von</b> muss grösser oder gleich dem <b>bis jetzt</b> Datum sein';
+const ERROR_PRICE_FROM_MUST_BE_NUM = '<b>Preis ab</b> muss eine Zahl sein';
+const ERROR_PRICE_TO_MUST_BE_NUM = '<b>Preis bis</b> muss eine Zahl sein';
+const ERROR_PRICE_TO_LESS_THAN_PRICE_FROM = '<b>Preis bis</b> muss grö&szlig;er oder gleich <b>Preis ab</b> sein.';

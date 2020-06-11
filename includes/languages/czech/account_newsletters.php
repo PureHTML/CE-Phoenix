@@ -21,3 +21,4 @@ define('MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION',
 
 const SUCCESS_NEWSLETTER_UPDATED = 'Změna v zasílání novinek potvrzena.';
 ?>
+const MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION = 'Zasílání novinek, nových produktů, speciálních nabídek, atd.';

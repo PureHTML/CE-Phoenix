@@ -61,3 +61,16 @@ define('EMAIL_COUPON_REDEEM',
     'To use the coupon enter the redeem code which is %s during checkout while making a purchase',
     true);
 ?>
+const TEXT_ORIGIN_LOGIN = '<font color="#FF0000"><small><strong>poznámka:</strong></small></font> Pokud už máte účet, přihlašte se <a href="%s"><u>zde</u></a>.';
+const EMAIL_SUBJECT = '';
+const EMAIL_GREET_MR = '';
+const EMAIL_GREET_MS = '';
+const EMAIL_GREET_NONE = '';
+const EMAIL_WELCOME = '';
+const EMAIL_TEXT = '';
+const EMAIL_CONTACT = '';
+const EMAIL_WARNING = '';
+const EMAIL_GV_INCENTIVE_HEADER = '';
+const EMAIL_GV_REDEEM = 'The redeem code for the e-Gift Voucher is %s, you can enter the redeem code when checking out while making a purchase';
+const EMAIL_COUPON_INCENTIVE_HEADER = '';
+const EMAIL_COUPON_REDEEM = 'To use the coupon enter the redeem code which is %s during checkout while making a purchase';

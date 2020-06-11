@@ -40,3 +40,10 @@ define('Fehler - An diese Adresse ist keine Zustellung möglich',
     'Zustellung ist derzeit an die gewählte Adresse nicht möglich. Bitte wählen Sie eine andere Zustelladresse.',
     true);
 ?>
+const TEXT_CHOOSE_SHIPPING_DESTINATION = 'Bitte wählen Sie aus Ihrem Adressbuch die gewünschte Versandadresse für Ihre Bestellung aus.';
+const TEXT_CHOOSE_SHIPPING_METHOD = 'Bitte wählen Sie die gewünschte Versandart für Ihre Bestellung aus.';
+const TEXT_ENTER_SHIPPING_INFORMATION = 'Zur Zeit bieten wir Ihnen nur eine Versandart an.';
+const TABLE_HEADING_COMMENTS = 'Fügen Sie hier Ihre Anmerkungen zu dieser Bestellung ein';
+const TITLE_CONTINUE_CHECKOUT_PROCEDURE = 'Fortsetzung des Bestellvorganges';
+const TEXT_CONTINUE_CHECKOUT_PROCEDURE = 'zur Auswahl der gewünschten Zahlungsweise.';
+const Fehler - An diese Adresse ist keine Zustellung möglich = 'Zustellung ist derzeit an die gewählte Adresse nicht möglich. Bitte wählen Sie eine andere Zustelladresse.';

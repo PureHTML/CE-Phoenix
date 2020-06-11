@@ -13,3 +13,5 @@
   define('MODULE_ORDER_TOTAL_SUBTOTAL_TITLE', 'Zwischensumme',true);
   define('MODULE_ORDER_TOTAL_SUBTOTAL_DESCRIPTION', 'Zwischensumme der Bestellung',true);
 ?>
+const MODULE_ORDER_TOTAL_SUBTOTAL_TITLE = 'Zwischensumme';
+const MODULE_ORDER_TOTAL_SUBTOTAL_DESCRIPTION = 'Zwischensumme der Bestellung';

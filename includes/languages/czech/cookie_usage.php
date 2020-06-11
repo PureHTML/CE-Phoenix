@@ -20,3 +20,4 @@ define('TEXT_INFORMATION',
 const BOX_INFORMATION_HEADING = 'bezpečnost cookies';
 const BOX_INFORMATION = 'Pro bezpečný nákup musí být Cookies zapnuté.';
 ?>
+const TEXT_INFORMATION = 'Vypnuté Cookies. Pokud nechcete přijímat cookies, objednávat lze pouze e-mailem.';

@@ -33,3 +33,4 @@ const TITLE_CONTINUE_CHECKOUT_PROCEDURE = 'Pokračujte v nákupu';
 const TEXT_CONTINUE_CHECKOUT_PROCEDURE = 'potvrďte objednávku';
 
 const IMAGE_BUTTON_CONFIRMATION = 'souhrn';
+const TEXT_SELECTED_BILLING_DESTINATION = 'Vyberte nebo vytvořte hlavní adresu, je-li odlišná od adresy dodání.';

@@ -13,3 +13,5 @@
   define('MODULE_ORDER_TOTAL_TOTAL_TITLE', 'Gesamtsumme',true);
   define('MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION', 'Gesamtsumme der Bestellung',true);
 ?>
+const MODULE_ORDER_TOTAL_TOTAL_TITLE = 'Gesamtsumme';
+const MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION = 'Gesamtsumme der Bestellung';

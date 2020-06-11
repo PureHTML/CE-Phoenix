@@ -14,3 +14,6 @@
   define('MODULE_BOXES_CURRENCIES_DESCRIPTION', 'Zeige alle Währungen',true);
   define('MODULE_BOXES_CURRENCIES_BOX_TITLE', 'Währungen',true);
 ?>
+const MODULE_BOXES_CURRENCIES_TITLE = 'Währungen';
+const MODULE_BOXES_CURRENCIES_DESCRIPTION = 'Zeige alle Währungen';
+const MODULE_BOXES_CURRENCIES_BOX_TITLE = 'Währungen';

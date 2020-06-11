@@ -31,3 +31,4 @@ const TEXT_NOW = '\' jetzt';
 const TEXT_ALL_CATEGORIES = 'Alle Kategorien';
 const TEXT_ALL_MANUFACTURERS = 'Alle Hersteller';
 ?>
+const HEADING_TITLE = '';

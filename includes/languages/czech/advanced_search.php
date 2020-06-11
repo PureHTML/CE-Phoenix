@@ -56,3 +56,7 @@ const ERROR_INVALID_KEYWORDS = 'špatné klíčové slovo.';
 //pure:new
 const IMAGE_BUTTON_BACK_ADVANCED_SEARCH = 'zpět na podrobné vyhledávání';
 ?>
+const TEXT_SEARCH_HELP_LINK = '<span class="glyphicon glyphicon-info-sign"></span> Pomoc s vyhledáváním';
+const TEXT_NO_PRODUCTS = 'Produkt dle zadaných kritérí nebyl nalezen. Zkuste upravit vyhledávací dotaz.';
+const ERROR_TO_DATE_LESS_THAN_FROM_DATE = 'Datum Do musí být vyšší než datum Od.';
+const ERROR_PRICE_TO_LESS_THAN_PRICE_FROM = 'cena Do musí být vyšší než cena Od.';
