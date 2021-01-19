@@ -22,8 +22,9 @@
     ];
 
     public function __construct() {
+      $hooks =& Guarantor::ensure_global('hooks', 'shop');
       foreach ($this->_base_hook_directories as $directory) {
-        $GLOBALS['hooks']->add_directory($directory);
+        $hooks->add_directory($directory);
       }
 
       spl_autoload_register([$this, 'autoload_hooks'], true, true);
@@ -35,7 +36,7 @@
         $file = str_replace(DIRECTORY_SEPARATOR, '/', $file);
       }
 
-      return tep_ltrim_once($file, $base_path);
+      return Text::ltrim_once($file, $base_path);
     }
 
     public static function _get_template_mapping_for($file, $type) {
@@ -49,6 +50,8 @@
         case 'ext':
           $file = static::extract_relative_path($file);
           return DIR_FS_CATALOG . "templates/default/includes/$file";
+        case 'translation':
+          return DIR_FS_CATALOG . $file;
         case 'literal':
         default:
           return DIR_FS_CATALOG . "templates/default/$file";

@@ -1,49 +1,33 @@
 <?php
-/*
-  $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+// set the level of error reporting
+error_reporting(E_ALL);
 
-  Copyright (c) 2014 osCommerce
+const HTTP_SERVER = 'http://localhost';
+const COOKIE_OPTIONS = [
+    'lifetime' => 0,
+    'domain' => 'localhost',
+    'path' => '/PureHTML/CE-Phoenix/admin',
+    'samesite' => 'Lax',
+];
+const DIR_WS_ADMIN = '/PureHTML/CE-Phoenix/admin/';
 
-  Released under the GNU General Public License
-*/
+const DIR_FS_DOCUMENT_ROOT = '/home/vitex/Projects/PureHTML/CE-Phoenix/';
+const DIR_FS_ADMIN = '/home/vitex/Projects/PureHTML/CE-Phoenix/admin/';
+const DIR_FS_BACKUP = DIR_FS_ADMIN . 'backups/';
 
-// define our webserver variables
-// FS = Filesystem (physical)
-// WS = Webserver (virtual)
-  define('HTTP_SERVER', ''); // eg, http://localhost or - https://localhost should not be NULL for productive servers
-  define('HTTPS_SERVER', '');
-  define('ENABLE_SSL', false);
-  define('HTTP_COOKIE_DOMAIN', '');
-  define('HTTPS_COOKIE_DOMAIN', '');
-  define('HTTP_COOKIE_PATH', '');
-  define('HTTPS_COOKIE_PATH', '');
-  define('HTTP_CATALOG_SERVER', '');
-  define('HTTPS_CATALOG_SERVER', '');
-  define('ENABLE_SSL_CATALOG', 'false'); // secure webserver for catalog module
-  define('DIR_FS_DOCUMENT_ROOT', $DOCUMENT_ROOT); // where your pages are located on the server. if $DOCUMENT_ROOT doesnt suit you, replace with your local path. (eg, /usr/local/apache/htdocs)
-  define('DIR_WS_ADMIN', '/admin/');
-  define('DIR_WS_HTTPS_ADMIN', '/admin/');
-  define('DIR_FS_ADMIN', DIR_FS_DOCUMENT_ROOT . DIR_WS_ADMIN);
-  define('DIR_WS_CATALOG', '/catalog/');
-  define('DIR_WS_HTTPS_CATALOG', '/catalog/');
-  define('DIR_FS_CATALOG', DIR_FS_DOCUMENT_ROOT . DIR_WS_CATALOG);
-  define('DIR_WS_CATALOG_IMAGES', DIR_WS_CATALOG . 'images/');
-  define('DIR_WS_CATALOG_LANGUAGES', DIR_WS_CATALOG . 'includes/languages/');
-  define('DIR_FS_CATALOG_LANGUAGES', DIR_FS_CATALOG . 'includes/languages/');
-  define('DIR_FS_CATALOG_IMAGES', DIR_FS_CATALOG . 'images/');
-  define('DIR_FS_CATALOG_MODULES', DIR_FS_CATALOG . 'includes/modules/');
-  define('DIR_FS_BACKUP', DIR_FS_ADMIN . 'backups/');
-  define('DIR_FS_DOWNLOAD', DIR_FS_CATALOG . 'download/');
-  define('DIR_FS_DOWNLOAD_PUBLIC', DIR_FS_CATALOG . 'pub/');
+const HTTP_CATALOG_SERVER = 'http://localhost';
+const DIR_WS_CATALOG = '/PureHTML/CE-Phoenix/';
+const DIR_FS_CATALOG = '/home/vitex/Projects/PureHTML/CE-Phoenix/';
 
-// define our database connection
-  define('DB_SERVER', '');
-  define('DB_SERVER_USERNAME', 'mysql');
-  define('DB_SERVER_PASSWORD', '');
-  define('DB_DATABASE', 'osCommerce');
-  define('USE_PCONNECT', 'false');
-  define('STORE_SESSIONS', '');
-?>
+date_default_timezone_set('Europe/Bratislava');
+
+// If you are asked to provide configure.php details
+// please remove the data below before sharing
+const DB_SERVER = '192.168.2.190';
+const DB_SERVER_USERNAME = 'ph1';
+const DB_SERVER_PASSWORD = 'ph1';
+const DB_DATABASE = 'ph1';
+const DB_CONNECTION = 'mysql';
+const DB_SERVER_PORT = 3306;
+  
